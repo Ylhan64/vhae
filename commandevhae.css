@@ -55,6 +55,7 @@
 	height: 200px;
 	background-color: #1c1c1c;
 	padding: 0;
+	float: inherit;
 	text-align: center;
 	margin-top: 2px;
 	color: white;
