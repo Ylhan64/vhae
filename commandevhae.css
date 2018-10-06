@@ -30,7 +30,8 @@ src: url("Yk.ttf");
 	vertical-align: middle;
 	border-bottom: 2px #0043FE dashed;
 	line-height: 100px;
-	font-family: Mandator;
+	font-family: Arimo;
+	font-weight: bold;
 	margin: auto;
 } 
 .shortPresent {
