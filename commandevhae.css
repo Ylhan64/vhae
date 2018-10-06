@@ -104,7 +104,7 @@ src: url("Yk.ttf");
 	height: 30px;
 	border-radius: 20px;
 	border: 2px #1C1C1C solid;
-	background-color: #0043FE;
+	background-color: white;
 	color: #1C1C1C;
 	outline-style: none;
 	margin-left: 100px;
@@ -113,9 +113,9 @@ src: url("Yk.ttf");
 }
 .contactme:hover {
 	cursor: pointer;
-	color: #1C1C1C;
-	background-color: white;
-	border-color: white;
+	color: white;
+	background-color: #EA412C;
+	border-color: #EA412C;
 	transition: all 0.2s linear 0s;
 }
 .footer {
