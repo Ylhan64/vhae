@@ -18,7 +18,8 @@ src: url("Yk.ttf");
 .websiteBase {
 	height: auto;
 	width: 80%;
-	font-family: Yk;
+	font-family: Helvetica;
+	font-weight: bold;
 	border: none;
 	color: white;
 	margin: auto;
