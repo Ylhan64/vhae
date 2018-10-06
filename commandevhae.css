@@ -50,6 +50,15 @@
 	margin-top: 2px;
 	color: white;
 }
+.box2 {
+	width: 33%;
+	height: 200px;
+	background-color: #1c1c1c;
+	padding: 0;
+	text-align: center;
+	margin-top: 2px;
+	color: white;
+}
 .box3 {
 	width: 33%;
 	height: 200px;
@@ -61,7 +70,13 @@
 	color: white;
 }
 
-.box1:hover .box2:hover .box3:hover{
+.box1:hover{
+	cursor: pointer;
+}
+.box2:hover{
+	cursor: pointer;
+}
+.box3:hover{
 	cursor: pointer;
 }
 .information {
