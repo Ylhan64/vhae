@@ -47,7 +47,7 @@
 	float: left;
 	padding: 0;
 	text-align: center;
-	margin-top: 2px;
+	margin-top: 0;
 	color: white;
 }
 .box2 {
@@ -55,19 +55,19 @@
 	height: 200px;
 	background-color: #1c1c1c;
 	padding: 0;
-	float: inherit;
+	float: left;
 	text-align: center;
-	margin-top: 2px;
+	margin-top: 0;
 	color: white;
 }
 .box3 {
 	width: 33%;
 	height: 200px;
 	background-color: #1c1c1c;
-	float: right;
+	float: left;
 	padding: 0;
 	text-align: center;
-	margin-top: 2px;
+	margin-top: 0;
 	color: white;
 }
 
