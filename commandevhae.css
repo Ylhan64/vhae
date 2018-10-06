@@ -72,6 +72,7 @@
 	text-decoration: none;
 	outline-style: none;
 	font-size: 15px;
+	line-height:15px;
 }
 .link:hover {
 	color: #EA412C;
