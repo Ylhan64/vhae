@@ -21,7 +21,7 @@ src: url("Yk.ttf");
 	font-family: Helvetica;
 	font-weight: none;
 	border: none;
-	color: white;
+	color: #1C1C1C;
 	margin: auto;
 }
 .princibar {
@@ -82,12 +82,12 @@ src: url("Yk.ttf");
 	letter-spacing: 1px;
 }
 .link {
-	color: white;
+	color: #1C1C1C;
 	text-decoration: none;
 	outline-style: none;
 }
 .link:hover {
-	color: #0043FE;
+	color: #1C1C1C;
 	filter: brightness(20%);
 	transition: all 0.2s linear 0s;
 	opacity: 1;
