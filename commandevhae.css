@@ -104,6 +104,7 @@
 	outline-style: none;
 	font-size: 18px;
 	line-height:18px;
+	font-weight:bold;
 }
 .link:hover {
 	color: #EA412C;
@@ -247,6 +248,7 @@
 		outline-style: none;
 		font-size: 18px;
 		line-height:18px;
+		font-weight:bold;
 	}
 	.link:hover {
 		color: #EA412C;
