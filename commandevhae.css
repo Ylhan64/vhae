@@ -142,7 +142,7 @@
 	padding-top: 15px;
 }
 
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 500px) {
 	.websiteBase {
 		height: auto;
 		width: 100%;
