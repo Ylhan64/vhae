@@ -89,6 +89,7 @@
 	height: auto;
 	border: none;
 	margin-top: 50px;
+	font-weight:bold;
 }
 .socialmedia {
 	width: 20%;
@@ -233,6 +234,7 @@
 		height: auto;
 		border: none;
 		margin-top: 50px;
+		font-weight:bold;
 	}
 	.socialmedia {
 		width: 20%;
