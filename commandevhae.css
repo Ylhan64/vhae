@@ -153,7 +153,7 @@
 		margin: auto;
 	}
 	.princibar {
-		width: 100%;
+		width: 95%;
 		height: 200px;
 		font-size: 50px;
 		vertical-align: middle;
@@ -165,9 +165,9 @@
 	.shortPresent {
 		height: auto;
 		width: 100%;
-		font-size: 80px;
-		margin-top: 30px;
-		line-height: 150px;
+		font-size: 50px;
+		margin-top: 10px;
+		line-height: 50px;
 		margin-left: 5%;
 	}
 	.citation {
@@ -264,7 +264,6 @@
 		background-color: white;
 		color: #1C1C1C;
 		outline-style: none;
-		margin-left: 202px;
 		margin-top: 15px;
 		margin-bottom: 5px;
 	}
