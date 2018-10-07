@@ -164,8 +164,8 @@
 	} 
 	.shortPresent {
 		height: auto;
-		width: 60%;
-		font-size: 150px;
+		width: 100%;
+		font-size: 80px;
 		margin-top: 30px;
 		line-height: 150px;
 		margin-left: 5%;
