@@ -256,6 +256,9 @@
 		font-weight: bold;
 		letter-spacing: 1px;
 	}
+	.textcontact {
+		margin-left:0px;
+	}	
 	.contactme {
 		width: 150px;
 		height: 30px;
